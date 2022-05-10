@@ -1,0 +1,6 @@
+project: rnshah9/mayhem-first-cc-gcc
+target: c1
+
+cmds:
+  - cmd: /first-cc-gcc/c1 @@
+    filepath: /test.c
